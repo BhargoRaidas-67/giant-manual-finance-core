@@ -8,7 +8,7 @@ To maximize readability and keep the code completely clean, this project strictl
 * **No Clutter Symbols:** Written without using a single hashtag (#) or underscore (_) throughout the entire codebase.
 * **Simple Data Output:** Uses plain print styling instead of complex string formatting techniques.
 
-## Features
+# Features
 1. **Initial Account Balances:** Manually input and track your wallet cash, bank accounts, and emergency funds.
 2. **Fixed Monthly Obligations:** Step by step tracking for your primary bills like rent, utilities, internet, and insurance.
 3. **Outstanding Debt Trackers:** Log your liability data including credit cards, student loans, and vehicle loans.
